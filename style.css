@@ -1,0 +1,13 @@
+h1{
+  color: gold;
+  background-color: black;
+  display: inline-block;
+}
+p
+{
+color: navy;
+border-width: 2px;
+border-radius: 3px;
+border-color: black;
+border-style: solid;
+}
